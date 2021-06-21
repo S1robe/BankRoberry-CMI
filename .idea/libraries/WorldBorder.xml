@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="WorldBorder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/WorldBorder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/worldedit-bukkit-6.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/worldguard-6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/WorldGuardExtraFlags.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

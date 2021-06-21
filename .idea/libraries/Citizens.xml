@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Citizens">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/Citizens.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/CitizensCMD.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
